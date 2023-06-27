@@ -36,7 +36,7 @@ class Apple extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Color(0xff418aab),
+        backgroundColor: Color(0xff85bad2),
         appBar: AppBar(
           title: Text(
             'DirtTrails Welcomes to Uganda.',
@@ -48,9 +48,9 @@ class Apple extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'The Pearl Of Africa Giraffe',
+                'Onto your list of adventures this summer: "The Pearl Of Africa"',
                 style: TextStyle(
-                  fontSize: 20,
+                  fontSize: 18,
                   color: Colors.yellow,
                 ),
               ),
