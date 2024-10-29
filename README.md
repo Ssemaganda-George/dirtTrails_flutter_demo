@@ -24,5 +24,3 @@ samples, guidance on mobile development, and a full API reference.
 If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
 
 
-
-
